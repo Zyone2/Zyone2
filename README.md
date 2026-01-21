@@ -37,8 +37,11 @@
 
 
 #  🙋 Hello
+
 <table>
+
 <tr><td>
+
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
