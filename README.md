@@ -37,15 +37,10 @@
 ### 🤺 About Me
 
 <p>&emsp;&emsp;暂无。</p>
-</tr></td>
-
-<tr><td>
-
 
 </td></tr>
 
 <tr><td>
-
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
