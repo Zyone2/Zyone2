@@ -36,8 +36,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/jobs.png" />
-
 <p>&emsp;&emsp;暂无。</p>
 </tr></td>
 
