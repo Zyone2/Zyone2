@@ -6,8 +6,7 @@ on:
     types:
       - started
   schedule:
-    - cron: "10 10 * * *"
-      timezone: 'Asia/Shanghai'
+    - cron: '2 18 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,4 +17,4 @@ jobs:
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
           token: ${{ secrets.GH_TOKEN }}
-          template: "wenjiew-astro's profile with <starCount> stars and <forkCount> forks 🎉"
+          template: "Zyone2's profile with <starCount> stars and <forkCount> forks 🎉"
