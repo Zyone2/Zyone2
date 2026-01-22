@@ -1,13 +1,13 @@
 <div align="center">
 
  <!-- dynamic typing effect 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Zyone2祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);zyone2祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
   
 <!-- knock code pictures 敲代码的图片 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/coding.gif" />
 </picture>
 
 <div></div>
@@ -21,16 +21,16 @@
   <!-- <a href="https://mp."><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;-->
   <!-- <a href="https://space.bilibili.com//"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;-->
   <!-- visitor -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=Zyone2&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;-->
+  <!-- <img src="https://komarev.com/ghpvc/?username=zyone2&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;-->
   <!-- wakatime -->
-  <!-- <a href="https://wakatime.com/@Zyone2"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>-->
+  <!-- <a href="https://wakatime.com/@zyone2"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>-->
 
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zyone2/zyone2/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zyone2/zyone2/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -44,7 +44,7 @@
 
 ### 🤺 About Me
 
-<p>&emsp;&emsp;嗨，你好，我是Zyone2同学。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是zyone2同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -106,11 +106,11 @@ Windows                  3 hrs 14 mins       ███████████�
 </table>
 
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/hr.gif" />
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/man_run.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/man_run.png" width="250" height="250" />
 
 <div>
   <picture>
@@ -120,38 +120,38 @@ Windows                  3 hrs 14 mins       ███████████�
   </picture>
 </div>
 
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/left.png" />
+<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/left.png" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Zyone2&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Zyone2&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyone2&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zyone2&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zyone2&theme=light&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyone2&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/right.png" />
+<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/right.png" />
 
-<img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/base.svg" />
+<img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/base.svg" />
 
 <table>
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zyone2&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zyone2&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zyone2&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zyone2&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zyone2&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyone2&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/hr.gif" />
 
 <div align="center" >
 
-<img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/mb.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/mb.png" width="250" height="250" />
 
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
-<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=Zyone2&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
+<!-- <div><img src="https://github-profile-trophy.vercel.app/?username=zyone2&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
 
 <table>
   <tr>
@@ -162,11 +162,11 @@ Windows                  3 hrs 14 mins       ███████████�
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/hr.gif" />
 
 <div align="center" >
 
-<img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/man.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/man.png" width="250" height="250" />
 
 <!--![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)-->
 <!--![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)-->
@@ -221,75 +221,75 @@ Windows                  3 hrs 14 mins       ███████████�
 -->
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/github.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/github.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/vue.webp">
 
 <!--
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/js.webp">
 -->
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zyone2/zyone2/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zyone2/zyone2/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/reactions.svg" alt="reactions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/89ec3e28fd33d3f0ed651b1faf44d8e9de07da99.svg" />
 
-<img src="https://cdn.jsdelivr.net/gh/Zyone2/Zyone2/assets/images/icon.png" />
+<img src="https://cdn.jsdelivr.net/gh/zyone2/zyone2/assets/images/icon.png" />
 </div>
 
 </div>
