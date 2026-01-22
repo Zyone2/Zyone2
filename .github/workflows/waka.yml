@@ -2,7 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 每天 00:00 UTC
+    - cron: "10 10 * * *"
+      timezone: 'Asia/Shanghai'
   workflow_dispatch:
 
 jobs:

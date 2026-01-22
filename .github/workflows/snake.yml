@@ -2,7 +2,8 @@ name: Snake Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "10 10 * * *"
+      timezone: 'Asia/Shanghai'
 
   # allows to manually run the job at any time
   workflow_dispatch:
