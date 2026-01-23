@@ -120,9 +120,9 @@ Windows                  11 hrs 16 mins      ███████████�
 
 <img align="left" width="150" src="https://cdn.jsdelivr.net/gh/zhizhi2213/zhizhi2213/assets/images/left.png" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-nu-six.vercel.app?user=zhizhi2213&theme=dark&locale=zh_Hans&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-nu-six.vercel.app?user=zhizhi2213&theme=light&locale=zh_Hans&hide_border=true" />
-  <img src="https://github-readme-streak-stats-nu-six.vercel.app?user=zhizhi2213&theme=dark&locale=zh_Hans&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-nu-six.vercel.app?user=zhizhi2213&theme=dark&locale=zh_Hans&hide_border=true&date_format=j/n/Y" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-nu-six.vercel.app?user=zhizhi2213&theme=light&locale=zh_Hans&hide_border=true&date_format=j/n/Y" />
+  <img src="https://github-readme-streak-stats-nu-six.vercel.app?user=zhizhi2213&theme=dark&locale=zh_Hans&hide_border=true&date_format=j/n/Y" />
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/zhizhi2213/zhizhi2213/assets/images/right.png" />
 
